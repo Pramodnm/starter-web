@@ -2,12 +2,12 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	
     Pramod Developer Twitter
 
 # THANKS
 
-    <name>
+    Thansks to all my students
 
 # TECHNOLOGY COLOPHON
 
