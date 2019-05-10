@@ -1,7 +1,7 @@
 # Starter Web Repo
 How to contribute
 This repository is for showing how Git and GitHub work
-This is other
+This is other> adding a line for rebaseing.
 
 ## Purpose
 
